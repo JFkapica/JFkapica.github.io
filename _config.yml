@@ -39,7 +39,7 @@ linkedin_username: jakub-kapica-5141671a3
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/placeholder.png
 about_content: | # this will include new lines to allow paragraphs
   Hello there! My name is Jakub and I am eager to welcome you to my website, where you can find a little bit about myself!
   
