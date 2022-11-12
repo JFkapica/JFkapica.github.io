@@ -10,7 +10,7 @@ name: Jakub Kapica
 title: Computer Science Student
 email: jkapica17@gmail.com
 # email_title: Email (Email title override)
-#phone: phone number
+# phone: phone number
 # phone_title: Phone (Phone title override)
 website: [JFkapica](https://github.com/JFkapica)
 # website_title: Web (Website title override)
@@ -43,15 +43,46 @@ about_profile_image: images/placeholder.png
 about_content: | # this will include new lines to allow paragraphs
   Hello there! My name is Jakub and I am eager to welcome you to my website, where you can find a little bit about myself! I would like you to know, that I am not going to treat this as a classical CV, but rather as sort of a bio mixed with a little sneakpeak into my thoughts. You could ask: "why not a blog then?", but since I am not planning on updating here frequently, I thought this way of representation would be the most suiting.
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  How would I describe myself? Probably not in the best possible way ( ;) ), but I will try anyway. As of now, I am 25 years old and I come from Kwidzyn, Poland. I am a working first-year student of computer science. I see myself as an open mind, full of questions and always ready to learn something new. I find great pleasure in knowledge, both in expanding it and in making use of it. 
+  As of my best qualities I would say that I am sociable, . In technical department i provide basic knowledge in <mark>C/C++</mark> and <mark>C#</mark>, all used in projects for the purpose of studies. I understand how <mark>GIT</mark> works and write training tasks using the <mark>github</mark> platform.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: University of Gdansk
+        sub_title: BSc in Computer Science
+        caption: 2022 - ongoing
+        quote: >
+          New, hopeful beginning
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: Gdansk University of Technology
+        sub_title: Engineer of Electronics and Telecommunications
+        caption: 2016 - 2020 (drop out after 5th semester)
+        quote: >
+          Bad choices and tough life lessons
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Option One sp. z o.o.
+        sub_title: Sony Bravia brand representative
+        caption: March 2020 - ongoing
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -72,36 +103,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Option One sp. z o.o.
-        sub_title: Sony Bravia brand representative
-        caption: March 2020 - ongoing
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: University of Gdansk
-        sub_title: BSc in Computer Science
-        caption: 2022 - ongoing
-        quote: >
-          New, hopeful beginning
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-      - layout: top-right
-        title: Gdansk University of Technology
-        sub_title: Engineer of Electronics and Telecommunications
-        caption: 2016 - 2020 (drop out after 5th semester)
-        quote: >
-          Bad choices and tough life lessons
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
