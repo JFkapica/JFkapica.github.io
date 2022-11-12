@@ -16,7 +16,7 @@ website: jfkapica.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  JFkapica
@@ -76,10 +76,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Option One sp. z o.o.
+        sub_title: Sony Bravia brand representative
+        caption: March 2020 - ongoing
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -88,9 +87,17 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
+        title: University of Gdansk
         sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        caption: 2022 - ongoing
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: University of Gdansk
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: 2022 - ongoing
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
