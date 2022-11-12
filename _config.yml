@@ -1,6 +1,6 @@
 # Site
 repository: jfkapica.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -88,18 +88,18 @@ content:
     content:
       - layout: top-right
         title: University of Gdansk
-        sub_title: Qualifications (eg. BA Performing Arts)
+        sub_title: BSc in Computer Science
         caption: 2022 - ongoing
         quote: >
-          Short institution or course description (optional)
+          New, hopeful beginning
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-right
-        title: University of Gdansk
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: 2022 - ongoing
+        title: Gdansk University of Technology
+        sub_title: Engineer of Electronics and Telecommunications
+        caption: 2016 - 2020 (drop out after 5th semester)
         quote: >
-          Short institution or course description (optional)
+          Bad choices and 
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
