@@ -82,7 +82,7 @@ content:
         sub_title: Brand representative
         caption: March 2020 - ongoing
         quote: >
-          Skills and responsibilities:
+          Tasks and responsibilities:
         description: | # this will include new lines to allow paragraphs
           - Cooperation with external companies.
           - Conducting product training in the workplace.
@@ -98,16 +98,16 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Comming soon!
+        link: https://github.com/jfkapica
+        link_text: Until then, check my github!
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/jfkapica
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
