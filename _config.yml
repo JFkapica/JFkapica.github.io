@@ -74,7 +74,7 @@ content:
           Bad choices and tough life lessons
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: Experience
+  - title: Work Experience
     layout: list
     content:
       - layout: right
@@ -82,7 +82,7 @@ content:
         sub_title: Brand representative
         caption: March 2020 - ongoing
         quote: >
-          Short description of the company (optional)
+          Skills and responsibilities:
         description: | # this will include new lines to allow paragraphs
           - Cooperation with external companies.
           - Conducting product training in the workplace.
