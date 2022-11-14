@@ -84,7 +84,14 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Cooperation with external companies.
+          - Conducting product training in the workplace.
+          - Constant updating of knowledge in the field of equipment and technology
+          - Management from the position of a mentor
+          - Leadership
+          - Customer service in the field of sales
+          - Taking care of high standards of customer service
+          - Creating periodic reports and summaries
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
