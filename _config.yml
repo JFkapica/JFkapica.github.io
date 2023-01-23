@@ -43,7 +43,7 @@ about_profile_image: images/placeholder.png
 about_content: | # this will include new lines to allow paragraphs
   Hello there! My name is Jakub and I am eager to welcome you to my website, where you can find a little bit about myself! I would like you to know, that I am not going to treat this as a classical CV, but rather as sort of a bio mixed with a little sneakpeak into my thoughts. You could ask: "why not a blog then?", but since I am not planning on updating here frequently, I thought this way of representation would be the most suiting.
   
-  How would I describe myself? Probably not in the best possible way ;), but I will try anyway. As of now, I am 25 years old and I come from Kwidzyn, Poland. I am a working first-year student of computer science. I see myself as an open mind, full of questions and always ready to learn something new. I find great pleasure in knowledge, both in expanding it and in making use of it. 
+  How would I describe myself? Probably not in the best possible way ;), but I will try anyway. As of now, I am 25 years old and I come from Kwidzyn, Poland. I am a working first-year student of Bachelor Studies in Computer Science. I see myself as an open mind, full of questions and always ready to learn something new. I find great pleasure in knowledge, both in expanding it and in making use of it. 
   As of my best qualities I would say that I am sociable, easy going and person. Although deep in heart I feel like an introvert, I 
   
   In technical department i provide basic knowledge in <mark>C/C++</mark> and <mark>C#</mark>, all used in projects for the purpose of studies. I understand how <mark>GIT</mark> works and write training tasks using the <mark>github</mark> platform. At present, I am expanding myself more into <mark>Python</mark> with intention of seeking employment that utilizes this language.
@@ -112,12 +112,12 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #- title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  #
+  #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
